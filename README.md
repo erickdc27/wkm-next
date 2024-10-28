@@ -12,38 +12,32 @@ No frontend, foi utilizada a tecnologia Next.js, um framework da biblioteca Reac
 - Strapi v5 - CMS headless que facilita a criação e gestão de conteúdo.
 - Docker - Plataforma de containerização que simplifica a criação, distribuição e execução de aplicações em ambientes isolados.
 
-## Instalação e Execução
+# Instalação e Execução
 
 ## Pré-requisitos
 
 - Node.js (16 ou superior)
 - npm
 - PostgreSQL (instalado e em execução)
-- Backend rodando localmente através das APIs do Strapi (instruções disponíveis no repositório abaixo):
+- Backend rodando localmente através das APIs do Strapi (instruções disponíveis no repositório abaixo)
 
-[Repositório da API](https://github.com/erickdc27/wkm-api)
+[Repositório Backend - Strapi](https://github.com/erickdc27/wkm-api)
 
-# Passo a passo para executar o projeto
+## Passo a passo para executar o projeto
 
-## 1. Clone o repositório
-
+### 1. Clone o repositório
 ```bash
 git clone (https://github.com/erickdc27/wkm-next.git)
 cd wkm-next
 ```
-
-## 2. Instale as dependências
-
+### 2. Instale as dependências
 ```bash
 npm install
 ```
-
-## 4. Inicie a aplicação
-
+### 4. Inicie a aplicação
 ```bash
 npm run dev
 ```
-
 A aplicação estará disponível em: `http://localhost:3000`
 
 ## Rotas da API utilizadas
