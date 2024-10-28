@@ -28,6 +28,8 @@ No frontend, foi utilizada a tecnologia Next.js, um framework da biblioteca Reac
 ### 1. Clone o repositório
 ```bash
 git clone (https://github.com/erickdc27/wkm-next.git)
+```
+```bash
 cd wkm-next
 ```
 ### 2. Instale as dependências
