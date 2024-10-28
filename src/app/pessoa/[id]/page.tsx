@@ -43,7 +43,7 @@ const PessoaDetalhes = () => {
   return (
     <div className="mx-auto mt-16 max-w-xl sm:mt-20">
       <h1 className="text-2xl font-bold mb-6 text-center">
-        Pessoa Cadastrada
+        Cadastro concluído
       </h1>
       <div className="bg-white rounded-lg shadow-md p-6">
         <p className="text-lg mb-4">
